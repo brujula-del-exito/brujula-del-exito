@@ -287,7 +287,7 @@ Redes sociales:
 </a>
 <br>
 <br>
- <a href="https://www.instagram.com/" target="_blank" style="text-decoration: none;">
+ <a href="https://www.instagram.com/brujula_de_exito/" target="_blank" style="text-decoration: none;">
     <button style="display: flex; align-items: center; background-color: #E1306C; color: white; border: none; border-radius: 5px; padding: 10px 15px; font-size: 16px; cursor: pointer;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 20px; height: 20px; margin-right: 10px;">
         Instagram
@@ -303,7 +303,7 @@ Redes sociales:
 </a>
 <br>
 <br>
-<a href="https://www.instagram.com/brujula_de_exito/" target="_blank" style="text-decoration: none;">
+<a href="https://www.tiktok.com/@brujuladelexi" target="_blank" style="text-decoration: none;">
     <button style="display: flex; align-items: center; background-color: #000000; color: white; border: none; border-radius: 5px; padding: 10px 15px; font-size: 16px; cursor: pointer;">
         <img src="https://static.vecteezy.com/system/resources/previews/042/127/128/non_2x/app-icon-style-tiktok-logo-with-thick-white-border-and-shadow-on-a-transparent-background-free-png.png" alt="TikTok" style="width: 20px; height: 20px; margin-right: 10px;">
         TikTok
